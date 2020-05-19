@@ -1,2 +1,2 @@
 # FNT-token
-Falcon token smart contact
+Falcon token smart contact source code
